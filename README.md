@@ -6,3 +6,8 @@ This repository contains implementations of the most common data structures in C
 
 A Vector is a dynamically allocated array that can change its size during runtime. It can be used to store a collection of elements of the same data type.
 
+##Doubly Linked List
+
+Not linear data structure that is scattered all over the memory. Easly expandable but with linear search time
+
+
