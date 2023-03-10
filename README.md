@@ -8,6 +8,6 @@ A Vector is a dynamically allocated array that can change its size during runtim
 
 ## Doubly Linked List
 
-Not linear data structure that is scattered all over the memory. Easly expandable but with linear search time
+A Doubly Linked List is a data structure that stores a collection of elements, where each element points to the next and previous elements in the list. It consists of a series of nodes, where each node contains the data and two pointers, one pointing to the previous node and the other pointing to the next node.
 
 
